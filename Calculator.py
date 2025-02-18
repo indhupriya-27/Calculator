@@ -1,4 +1,3 @@
-# Simple calculator using Python
 
 # Function to add two numbers
 def add(num1, num2):
@@ -34,7 +33,6 @@ print("Please select operation -\n" \
       "4. Divide\n" \
       "5. Average\n")
 
-# Take input from the user
 select = int(input("Select operations form 1, 2, 3, 4, 5 :"))
 
 number_1 = int(input("Enter first number: "))
